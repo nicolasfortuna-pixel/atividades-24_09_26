@@ -8,17 +8,16 @@
 
 // console.log(dobrado);
 
-// // 1
+// 1
 // function somar(n1, n2) {
 //   return n1 + n2;
 // }
 
 // function executarOperacao(a, b, operacaoCallback) {
-//   // SEU CÓDIGO AQUI: chame operacaoCallback com os parâmetros a e b
+  
 //   return operacaoCallback(a, b);
 // }
 
-// // Teste:
 // console.log(executarOperacao(10, 5, somar));
 
 //2
